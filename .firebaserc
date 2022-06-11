@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "whatsapp-clone-c0eab",
+    "hosting": "whats-app-clone-b5cff",
+    "build": "whats-app-clone-b5cff"
+  },
+  "targets": {}
+}
